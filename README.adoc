@@ -2,6 +2,25 @@
 
 This Repository contains my Homework for the Advanced Openshift Training.
 
+== Task
+
+MitziCom has asked you to lead a 30- to 40-hour proof-of-concept (POC) using 
+Red Hat OpenShift Container Platform. The purpose of the POC is to determine the
+feasibility of using OpenShift as a target for an existing Java-based 
+microservices workload.
+
+MitziCom has asked you to demonstrate a fully integrated CI/CD pipeline using 
+Nexus as the artifact repository and container registry and SonarQube for source
+code analysis. The application needs to be deployed to production in a 
+blue-green strategy orchestrated by Jenkins.
+
+The application consists of three microservices—two back-end services and one 
+front-end service calling the back-end services. The repository also contains 
+build and deployment information that you need. Make sure to understand how the 
+application works before starting the project.
+
+
+
 == Parks Map Multi-service Application
 
 The Application consisting of three micro-services. These 
